@@ -36,7 +36,7 @@ Follow these steps to set up the application on your local machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone [https://github.com/yourusername/your-repository.git](https://github.com/Sujood-Mohammad/laravel-blog24.git)
+   git clone https://github.com/Sujood-Mohammad/laravel-blog24.git
    cd laravel-blog24
    cd blog-app
    composer install
