@@ -44,7 +44,7 @@ Follow these steps to set up the application on your local machine:
    php artisan key:generate
 
 ## Open the .env file and set your database connection details:
-
+   ```ف
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
